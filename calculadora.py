@@ -1,5 +1,5 @@
 class Calculadora:
-    def somar(self, a, b):
+    def somar(self, a, b): # isso aqui soma
         return a+b
 
     def subtrair(self, a, b):
